@@ -1,4 +1,4 @@
-name: 'Env template'
+name: 'Template env'
 description: 'Replaces ${TOKENS} with environment variables in file.'
 author: 'Vadim Vafin <vafinvr@ya.ru>'
 branding:

@@ -1,6 +1,6 @@
-name: 'Replace env vars in file'
-description: 'Replaces __TOKENS__ with environment variables in file.'
-author: 'Jan Alfred Richter <falnyr@gmail.com>'
+name: 'Env template'
+description: 'Replaces ${TOKENS} with environment variables in file.'
+author: 'Vadim Vafin <vafinvr@ya.ru>'
 branding:
   icon: 'align-left'
   color: 'purple'

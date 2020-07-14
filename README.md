@@ -1,5 +1,5 @@
 # Replace env vars in file
-Replaces `__TOKENS__` with environment variables in file.
+Replaces `${TOKENS}` with environment variables in file.
 
 ## Usage
 #### Inputs

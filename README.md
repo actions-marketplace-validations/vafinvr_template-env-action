@@ -7,7 +7,7 @@ Replaces `${TOKENS}` with environment variables in file.
 
 ## Example
 ```yaml
-uses: vafinvr/replace-env-vars-action@master
+uses: vafinvr/template-env-action@master
 env:
   FOO: foo
   BAR: bar
